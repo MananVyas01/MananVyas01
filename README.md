@@ -170,8 +170,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 ### 🎲 Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-### 📈 Productive Time
-![Productivity](https://github-readme-stats.vercel.app/api/wakatime?username=MananVyas01&theme=radical&hide_border=true)
 
 </div>
 
