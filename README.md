@@ -163,19 +163,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MananVyas01&repo=AI-ML-Projects&theme=radical&hide_border=true)](https://github.com/MananVyas01/AI-ML-Projects)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MananVyas01&repo=Django-Projects&theme=radical&hide_border=true)](https://github.com/MananVyas01/Django-Projects)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MananVyas01&repo=Cloud-Solutions&theme=radical&hide_border=true)](https://github.com/MananVyas01/Cloud-Solutions)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MananVyas01&repo=Cybersecurity-Tools&theme=radical&hide_border=true)](https://github.com/MananVyas01/Cybersecurity-Tools)
-
-</div>
-
----
-
 ## 🎭 Fun Zone
 
 <div align="center">
@@ -186,9 +173,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 ### 📈 Productive Time
 ![Productivity](https://github-readme-stats.vercel.app/api/wakatime?username=MananVyas01&theme=radical&hide_border=true)
 
-### 🔥 Current Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MananVyas01&theme=radical&hide_border=true&stroke=f85d7f&ring=58a6ff&fire=f85d7f&currStreakLabel=f85d7f" alt="Current Streak" />
-
 </div>
 
 ---
@@ -197,11 +181,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://www.linkedin.com/in/manan-v-a13a43290)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://www.linkedin.com/in/mananvyas0110)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://x.com/Manan_Vyas01?t=fHA__ubJ2u-oFMsFpcnD8w&s=09)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow)](https://www.instagram.com/mr._royal_dreamer/profilecard/?igsh=MWk1ZzNpbGdzc2EydQ==)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:vyasmanan2511@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&label=Visit)](https://mananvyas.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow)](https://www.instagram.com/Mananvyas01/profilecard/?igsh=MWk1ZzNpbGdzc2EydQ==)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:mananvyas.work@gmail.com)
 
 </div>
 
