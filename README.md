@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manan%20Vyas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Turning%20Ideas%20Into%20Digital%20Reality&descSize=18&descAlignY=65)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🤖+AI%2FML+Engineer;☁️+Cloud+Architect;🛡️+Bug+Bounty+Hunter;🎯+Problem+Solver;💡+Innovation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🤖+AI%2FML+Engineer;🛡️+Bug+Bounty+Hunter;🎯+Problem+Solver;💡+Innovation+Enthusiast" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=MananVyas01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
