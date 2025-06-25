@@ -106,13 +106,6 @@ const mananVyas = {
 
 </div>
 
-### 🐍 Watch my contributions get eaten by a snake!
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/MananVyas01/MananVyas01/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
